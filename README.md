@@ -2,7 +2,7 @@
 ## I'm Luan Nascimento
 - *I live in :brazil:, northeast :sunglasses::sunrise:*
 - *I have been working on Halvernyx Informatica as Software Engineer :computer:*
-- *I have been learning more about Vue.js :sparkling_heart:*
+- *I have been learning more about Computer Network :sparkling_heart:*
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/luan-nascimento/" target="_blank">
