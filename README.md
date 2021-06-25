@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Luan Nascimento
 - *I live in :brazil:, northeast :sunglasses::sunrise:*
-- *I have been working on Halvernyx Informatica as Software Engineer :computer:*
+- *I have been working on Halvernyx Informatica as Web Developer :computer:*
 - *I have been learning more about Computer Network :sparkling_heart:*
 
 ## Connect with me:
